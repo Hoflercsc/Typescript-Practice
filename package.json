@@ -1,0 +1,24 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "A personal sandbox for practicing TypeScript — small exercises, language features, and experiments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoflercsc/Typescript-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoflercsc/Typescript-Practice/issues"
+  },
+  "homepage": "https://github.com/Hoflercsc/Typescript-Practice#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
